@@ -1,0 +1,1 @@
+//important function/class from '../src/js/function.js
